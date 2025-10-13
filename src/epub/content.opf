@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/walter-scott/waverley</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-10-13T02:00:13Z</dc:date>
+		<meta property="dcterms:modified">2025-10-13T02:00:13Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -52,18 +52,16 @@
 		<meta property="group-position" refines="#collection-1">1</meta>
 		<dc:description id="description">A young English officer becomes involved in the Jacobite rebellion.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Edward Waverley is a young English gentleman, and the heir to his uncle, Sir Everard Waverley. After receiving a commision in the English army and being stationed in Scotland, he comes into contact with Jacobites, supporters of the pretender Charles Stuart, who seeks to reclaim the throne of England.&lt;/p&gt;
-			&lt;p&gt;After becoming enamored with the Jacobite cause and being suspected of treason, Waverley decides to openly join the uprising on the side of the rebels, during which his honorable conduct wins him favor on both sides of the conflict.&lt;/p&gt;
-			&lt;p&gt;Originally published anonymously by &lt;a href="https://standardebooks.org/ebooks/walter-scott"&gt;Walter Scott&lt;/a&gt;, &lt;i&gt;Waverley&lt;/i&gt; was well-received by critics and audiences upon its publication, and is an early example of historical fiction, which Scott helped popularize. The title this novel became the name for the &lt;a href="https://standardebooks.org/collections/waverley"&gt;Waverley Novels&lt;/a&gt;, a series of unrelated historical novels, set mainly in the British Isles.&lt;/p&gt;
+			&lt;p&gt;Edward Waverley is a young English gentleman, the heir to his uncle, Sir Everard Waverley. After receiving a commission in the English army and being stationed in Scotland, he comes into contact with Jacobites, supporters of the pretender Charles Stuart, who seeks to reclaim the throne of England.&lt;/p&gt;
+			&lt;p&gt;After becoming enamored with the Jacobite cause and subsequently being suspected of treason, Waverley decides to openly join the uprising on the side of the rebels, during which his honorable conduct wins him favor on both sides of the conflict.&lt;/p&gt;
+			&lt;p&gt;Originally published anonymously by &lt;a href="https://standardebooks.org/ebooks/walter-scott"&gt;Walter Scott&lt;/a&gt;, &lt;i&gt;Waverley&lt;/i&gt; was well-received by critics and audiences, and is an early example of historical fiction, a genre Scott helped popularize. The novel’s title became the name for the overarching &lt;a href="https://standardebooks.org/collections/waverley"&gt;Waverley stories&lt;/a&gt;, a series of unrelated historical novels set mainly in the British Isles.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/5998</dc:source>
-		<!-- Vol. 1 -->
 		<dc:source>https://archive.org/details/waverleynovels011893scotuoft</dc:source>
-		<!-- Vol. 2 -->
 		<dc:source>https://archive.org/details/waverleynovelswi02scotuoft</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">178723</meta>
+		<meta property="se:reading-ease.flesch">51.82</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Waverley_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/walter-scott_waverley</meta>
 		<dc:creator id="author">Walter Scott</dc:creator>
@@ -105,6 +103,11 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">David Reimer</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Reimer, David</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://github.com/dajare</meta>
+		<meta property="se:url.authority.nacoaf" refines="#producer-2">http://id.loc.gov/authorities/names/n92075987</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
