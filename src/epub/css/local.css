@@ -146,12 +146,17 @@ footer{
 
 /* Dedication */
 #dedication{
-	margin: 1em 2.5em;
+	margin-top: 20vh
 }
 
 #dedication > p:first-of-type{
 	font-variant: small-caps;
 	text-align: center;
+}
+
+#dedication > p:first-of-type + p,
+#dedication > p:first-of-type + p + p{
+	text-indent: 0;
 }
 
 #dedication p > span{
