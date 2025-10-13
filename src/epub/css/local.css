@@ -144,6 +144,10 @@ footer{
 	font-family: "Standard Blackletter";
 }
 
+#preface [epub|type~="z3998:poem"] header p{
+	text-align: center;
+}
+
 /* Dedication */
 #dedication{
 	margin-top: 20vh
