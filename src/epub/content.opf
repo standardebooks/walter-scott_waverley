@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">Waverley, or ’Tis Sixty Years Since</dc:title>
 		<meta property="file-as" refines="#fulltitle">Waverley</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Historical fiction</dc:subject>
 		<dc:subject id="subject-2">Scotland -- History -- 18th century -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Jacobite Rebellion, 1745-1746 -- Fiction</dc:subject>
