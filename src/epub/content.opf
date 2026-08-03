@@ -61,7 +61,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/5998</dc:source>
 		<dc:source>https://archive.org/details/waverleynovels011893scotuoft</dc:source>
 		<dc:source>https://archive.org/details/waverleynovelswi02scotuoft</dc:source>
-		<meta property="schema:wordCount">177353</meta>
+		<meta property="schema:wordCount">177354</meta>
 		<meta property="schema:educationalLevel">51.82</meta>
 		<link href="https://en.wikipedia.org/wiki/Waverley_(novel)" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
