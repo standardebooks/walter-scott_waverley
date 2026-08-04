@@ -51,7 +51,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Waverley</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:abstract>A young English officer becomes involved in the Jacobite rebellion.</dc:abstract>
+		<meta property="schema:abstract">A young English officer becomes involved in the Jacobite rebellion.</meta>
 		<dc:description>
 			&lt;p&gt;Edward Waverley is a young English gentleman, the heir to his uncle, Sir Everard Waverley. After receiving a commission in the English army and being stationed in Scotland, he comes into contact with Jacobites, supporters of the pretender Charles Stuart, who seeks to reclaim the throne of England.&lt;/p&gt;
 			&lt;p&gt;After becoming enamored with the Jacobite cause and subsequently being suspected of treason, Waverley decides to openly join the uprising on the side of the rebels, during which his honorable conduct wins him favor on both sides of the conflict.&lt;/p&gt;
